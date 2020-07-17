@@ -21,7 +21,7 @@ class mainViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.navigationItem.title = "Sumone"
+        self.navigationItem.title = "Main Page"
         
         nameLabel.text = me.name + " ❤️ " + you.name
       
